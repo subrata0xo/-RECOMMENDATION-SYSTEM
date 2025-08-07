@@ -26,5 +26,9 @@ Despite being a simplified recommendation system, this project showcases how con
 
 In conclusion, this project provided hands-on experience in handling real-world datasets, applying machine learning concepts like similarity analysis, and presenting insights through visualizations. It is a foundational step toward building more complex systems involving collaborative filtering, hybrid models, or deep learning-based recommender systems. With further data enrichment (e.g., user reviews or ratings), the system can be extended to offer personalized recommendations and improve overall accuracy and relevance.
 
-#OUTPUT :
+# OUTPUT :
+<img width="996" height="393" alt="Image" src="https://github.com/user-attachments/assets/ea934758-492a-46c6-b8d5-f7654836ead2" />
+<img width="841" height="358" alt="Image" src="https://github.com/user-attachments/assets/0e747d0d-333f-47d1-b008-2c0373258212" />
+<img width="1097" height="547" alt="Image" src="https://github.com/user-attachments/assets/5e1207a0-f42c-4a7b-ad60-9673e6baf74b" />
+<img width="976" height="873" alt="Image" src="https://github.com/user-attachments/assets/1002df3a-fc5e-41ad-bdec-bee5aff3212f" />
 
